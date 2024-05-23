@@ -1,4 +1,4 @@
-# CodLe
+# CoDle
 Programlama dilleri ile ilgili travle, wordle, loldle gibi bir bilgi oyunu.
 
 ## https://mehmetserhataslan.tech/game
