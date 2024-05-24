@@ -4,7 +4,7 @@ var time=new Date("2024-05-23");
 var today=new Date();
 var timestamp=Math.floor((today-time) / (1000*60*60*24));
 
-var data=fetch("lang.json")
+var data=fetch("https://raw.githubusercontent.com/MetaMsa/CoDle/main/lang.json")
     .then(response => response.json())
     .then(data => {var index = timestamp % data.length;
                    namee = data[index].name;
@@ -17,7 +17,7 @@ var count=0;
 var match = () => {
     var a=document.getElementById("game").value.toLowerCase().trim();
 
-    var data=fetch("lang.json")
+    var data=fetch("https://raw.githubusercontent.com/MetaMsa/CoDle/main/lang.json")
     .then(response => response.json())
     .then(data => {
         for(let i=0;i<data.length;i++) 
