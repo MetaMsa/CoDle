@@ -1,0 +1,71 @@
+[
+    {
+        "name": "c",
+        "year": 1972,
+        "compiled": "Derlenen",
+        "c": "Evet"
+    },
+
+    {
+        "name": "python",
+        "year": 1991,
+        "compiled": "Yorumlanan",
+        "c": "Hayır"
+    },
+
+    {
+        "name": "c++",
+        "year": 1985,
+        "compiled": "Derlenen",
+        "c": "Evet"
+    },
+
+    {
+        "name": "javascript",
+        "year": 1995,
+        "compiled": "Yorumlanan",
+        "c": "Hayır"
+    },
+
+    {
+        "name": "c#",
+        "year": 2000,
+        "compiled": "Derlenen",
+        "c": "Evet"
+    },
+
+    {
+        "name": "assembly",
+        "year": 1947,
+        "compiled": "Derlenen",
+        "c": "Hayır"
+    },
+
+    {
+        "name": "java",
+        "year": 1995,
+        "compiled": "Hem derlenen hem yorumlanan",
+        "c": "Evet"
+    },
+
+    {
+        "name": "php",
+        "year": 1995,
+        "compiled": "Yorumlanan",
+        "c": "Evet"
+    },
+
+    {
+        "name": "ruby",
+        "year": 1995,
+        "compiled": "Yorumlanan",
+        "c": "Evet"
+    },
+
+    {
+        "name": "swift",
+        "year": 2014,
+        "compiled": "Derlenen",
+        "c": "Evet"
+    }
+]
